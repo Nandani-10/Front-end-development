@@ -9,7 +9,7 @@ section.main-section{
     /* animation: rotate 6s linear infinite;  */
 } 
 div.main-section-mask{
-    background-color: rgba(0,0,0,0.4)/*last value in between 0 and  1 to get the shadow of background*/
+    background-color: rgba(1,0,0,0.4)/*last value in between 0 and  1 to get the shadow of background*/
 }
 /*header section starts here*/
 header.header-section{
